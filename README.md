@@ -20,13 +20,13 @@ https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/addresses/addres
 
 Accounts were flagged for a number of reasons such as:
 
-Trying to imitate other contract addresses providing tokens
-Scam lotteries
-Fake ICOs
-Imitating other users
-Ponzi schemes
-Phishing
-Mirroring websites
+* Trying to imitate other contract addresses providing tokens
+* Scam lotteries
+* Fake ICOs
+* Imitating other users
+* Ponzi schemes
+* Phishing
+* Mirroring websites
 
 Accounts transactions were retrieved through the Etherscan API.
 
