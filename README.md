@@ -32,7 +32,7 @@ Accounts transactions were retrieved through the Etherscan API.
 
 ### Summary of Data cleaning and Exploratory Data Analysis
 
-The original dataset consisted of 9841 rows with 50 columns of features. It is imbalanced with the target column consisting of 7662 negatives and 2179 positives.
+The original dataset consisted of 9841 rows with 50 columns of features. It is imbalanced with the target column consisting of 7662 '0's indicating normal accounts and 2179 '1's indicating illicit accounts.
 
 9823 rows and 50 features remained after investigating and dropping duplicates.
 
