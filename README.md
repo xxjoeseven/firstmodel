@@ -84,5 +84,6 @@ Confusion Matrix is as follows:
 
 * Learn to code a simple decision tree from scratch to 'see' the code behind.
 * Learn to access and download data from etherscan API.
+  * UPDATE: 03/12 - DONE - See etherscanAPI folder.
 * Pass the data through other algo such as random forest and lgbm GOSS and compare the results.
 * Deepen knowledge in manipulation of data and statistics.
