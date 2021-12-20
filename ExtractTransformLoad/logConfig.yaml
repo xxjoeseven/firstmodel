@@ -1,0 +1,48 @@
+version: 1
+disable_existing_loggers: true
+
+formatters:
+  standard:
+    format: '[%(asctime)s] %(levelname)s %(name)s: %(message)s'
+    datefmt: '%m/%d/%Y %I:%M:%S %p'
+
+  error:
+    format: "[%(asctime)s] %(levelname)s <PID %(process)d:%(processName)s> %(name)s.%(funcName)s(): %(message)s"
+    datefmt: '%m/%d/%Y %I:%M:%S %p'
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: standard
+    stream: ext://sys.stdout
+
+  info_h:
+    class: logging.FileHandler
+    level: INFO
+    formatter: standard
+    filename: logfile.log
+
+  error_h:
+    class: logging.FileHandler
+    level: ERROR
+    formatter: error
+    filename: error.log
+
+# Note - Not naming module names, all logger will use root because there is no need to differentiate at this point.
+# Note - I wanted to capture everything in my log file to see all the actions of the code as part of learning.
+
+#loggers:
+#  <module>:
+#    level: DEBUG
+#    handlers: [debug_h, error_h, console]
+#    propagate: False
+#
+#  <module.x>:
+#    level: DEBUG
+#    handlers: [debug_h, error_h, console]
+#    propagate: False
+
+root:
+  level: NOTSET
+  handlers: [info_h, error_h, console]

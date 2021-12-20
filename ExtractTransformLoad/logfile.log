@@ -1,0 +1,132 @@
+[12/20/2021 09:33:58 PM] INFO __main__: Logger set up
+[12/20/2021 09:33:58 PM] INFO get_data: Logging is configured.
+[12/20/2021 09:34:00 PM] INFO get_data: 0x09750ad360fdb7a2ee23669c4503c974d86d8694 Page 1 Completed.
+[12/20/2021 09:34:02 PM] INFO get_data: 0x09750ad360fdb7a2ee23669c4503c974d86d8694 Page 2 Completed.
+[12/20/2021 09:34:04 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:04 PM] INFO get_data: Extraction for 0x09750ad360fdb7a2ee23669c4503c974d86d8694 done.
+[12/20/2021 09:34:06 PM] INFO get_data: 0xc915eC7f4CFD1C0A8Aba090F03BfaAb588aEF9B4 Page 1 Completed.
+[12/20/2021 09:34:08 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:08 PM] INFO get_data: Extraction for 0xc915eC7f4CFD1C0A8Aba090F03BfaAb588aEF9B4 done.
+[12/20/2021 09:34:10 PM] INFO get_data: 0xecb6ffaC05D8b4660b99B475B359FE454c77D153 Page 1 Completed.
+[12/20/2021 09:34:12 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:12 PM] INFO get_data: Extraction for 0xecb6ffaC05D8b4660b99B475B359FE454c77D153 done.
+[12/20/2021 09:34:15 PM] INFO get_data: 0x7F85A82a2da50540412F6E526F1D00A0690a77B8 Page 1 Completed.
+[12/20/2021 09:34:17 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:17 PM] INFO get_data: Extraction for 0x7F85A82a2da50540412F6E526F1D00A0690a77B8 done.
+[12/20/2021 09:34:19 PM] INFO get_data: 0xBc8b85b1515E45Fb2d74333310A1d37B879732c0 Page 1 Completed.
+[12/20/2021 09:34:21 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:21 PM] INFO get_data: Extraction for 0xBc8b85b1515E45Fb2d74333310A1d37B879732c0 done.
+[12/20/2021 09:34:23 PM] INFO get_data: 0xBBF84F9b823c42896c9723C0BE4D5f5eDe257b52 Page 1 Completed.
+[12/20/2021 09:34:25 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:25 PM] INFO get_data: Extraction for 0xBBF84F9b823c42896c9723C0BE4D5f5eDe257b52 done.
+[12/20/2021 09:34:27 PM] INFO get_data: 0xD5cE086A9d4987Adf088889A520De98299E10bb5 Page 1 Completed.
+[12/20/2021 09:34:29 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:29 PM] INFO get_data: Extraction for 0xD5cE086A9d4987Adf088889A520De98299E10bb5 done.
+[12/20/2021 09:34:31 PM] INFO get_data: 0x6B5C35d525D2d94c68Ab5c5AF9729092fc8771Dd Page 1 Completed.
+[12/20/2021 09:34:33 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:33 PM] INFO get_data: Extraction for 0x6B5C35d525D2d94c68Ab5c5AF9729092fc8771Dd done.
+[12/20/2021 09:34:35 PM] INFO get_data: 0x4541c7745c82DF8c10bD4A58e28161534B353064 Page 1 Completed.
+[12/20/2021 09:34:36 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:36 PM] INFO get_data: Extraction for 0x4541c7745c82DF8c10bD4A58e28161534B353064 done.
+[12/20/2021 09:34:38 PM] INFO get_data: 0x0a00Fb2e074Ffaaf6c561164C6458b5C448120FC Page 1 Completed.
+[12/20/2021 09:34:40 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:40 PM] INFO get_data: Extraction for 0x0a00Fb2e074Ffaaf6c561164C6458b5C448120FC done.
+[12/20/2021 09:34:42 PM] INFO get_data: 0x3A3999e6501e2a36dD3C0B8Fc2Bd165fc4a22e54 Page 1 Completed.
+[12/20/2021 09:34:44 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:44 PM] INFO get_data: Extraction for 0x3A3999e6501e2a36dD3C0B8Fc2Bd165fc4a22e54 done.
+[12/20/2021 09:34:46 PM] INFO get_data: 0x39F3E7fA18d342De467AD9d7065A46c8385589F7 Page 1 Completed.
+[12/20/2021 09:34:48 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:48 PM] INFO get_data: Extraction for 0x39F3E7fA18d342De467AD9d7065A46c8385589F7 done.
+[12/20/2021 09:34:50 PM] INFO get_data: 0x439cB5628e64677c540A8635c86e41D83C1170d5 Page 1 Completed.
+[12/20/2021 09:34:53 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:53 PM] INFO get_data: Extraction for 0x439cB5628e64677c540A8635c86e41D83C1170d5 done.
+[12/20/2021 09:34:55 PM] INFO get_data: 0x22764DE8f82F2D2a90e0cCCa4556A2a5114B6461 Page 1 Completed.
+[12/20/2021 09:34:57 PM] INFO get_data: message is not OK
+[12/20/2021 09:34:57 PM] INFO get_data: Extraction for 0x22764DE8f82F2D2a90e0cCCa4556A2a5114B6461 done.
+[12/20/2021 09:34:59 PM] INFO get_data: 0xc28F50625CfE028Ab1A3458C7cEbCf9657Ff1438 Page 1 Completed.
+[12/20/2021 09:35:02 PM] INFO get_data: message is not OK
+[12/20/2021 09:35:02 PM] INFO get_data: Extraction for 0xc28F50625CfE028Ab1A3458C7cEbCf9657Ff1438 done.
+[12/20/2021 09:35:04 PM] INFO get_data: 0x14130D36B36887620c37A404f859D11e293ec06A Page 1 Completed.
+[12/20/2021 09:35:09 PM] INFO get_data: message is not OK
+[12/20/2021 09:35:09 PM] INFO get_data: Extraction for 0x14130D36B36887620c37A404f859D11e293ec06A done.
+[12/20/2021 09:35:11 PM] INFO get_data: 0x2f77f4523a13138b472Ac6fAeF624ccE68DA2c46 Page 1 Completed.
+[12/20/2021 09:35:13 PM] INFO get_data: message is not OK
+[12/20/2021 09:35:13 PM] INFO get_data: Extraction for 0x2f77f4523a13138b472Ac6fAeF624ccE68DA2c46 done.
+[12/20/2021 09:35:15 PM] INFO get_data: 0x2315314c5Cadb895C2c9982b847FD6f6A32D6129 Page 1 Completed.
+[12/20/2021 09:35:17 PM] INFO get_data: message is not OK
+[12/20/2021 09:35:17 PM] INFO get_data: Extraction for 0x2315314c5Cadb895C2c9982b847FD6f6A32D6129 done.
+[12/20/2021 09:35:19 PM] INFO get_data: 0x8651e8e218597e781E9a6D8CEB53ec5A236Ae75b Page 1 Completed.
+[12/20/2021 09:35:21 PM] INFO get_data: message is not OK
+[12/20/2021 09:35:21 PM] INFO get_data: Extraction for 0x8651e8e218597e781E9a6D8CEB53ec5A236Ae75b done.
+[12/20/2021 09:35:23 PM] INFO get_data: 0x2f80A6700e4bea478aC027F019f04A78a7538D06 Page 1 Completed.
+[12/20/2021 09:35:25 PM] INFO get_data: message is not OK
+[12/20/2021 09:35:25 PM] INFO get_data: Extraction for 0x2f80A6700e4bea478aC027F019f04A78a7538D06 done.
+[12/20/2021 09:35:25 PM] INFO __main__: TX Dataset collected and returned as a Dataframe, export the TX Data to csv
+[12/20/2021 09:35:25 PM] INFO transform_input: Logging is configured
+[12/20/2021 09:35:25 PM] INFO transform_input: Data type conversion completed.
+[12/20/2021 09:35:25 PM] INFO transform_input: All unique addresses extracted from Etherscan returned data
+[12/20/2021 09:35:25 PM] INFO transform_input: Known Address check database converted to lowercase to match Etherscan returned data
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x09750ad360fdb7a2ee23669c4503c974d86d8694 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0xc915ec7f4cfd1c0a8aba090f03bfaab588aef9b4 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0xecb6ffac05d8b4660b99b475b359fe454c77d153 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x7f85a82a2da50540412f6e526f1d00a0690a77b8 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0xbc8b85b1515e45fb2d74333310a1d37b879732c0 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0xbbf84f9b823c42896c9723c0be4d5f5ede257b52 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0xd5ce086a9d4987adf088889a520de98299e10bb5 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x6b5c35d525d2d94c68ab5c5af9729092fc8771dd from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x4541c7745c82df8c10bd4a58e28161534b353064 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x0a00fb2e074ffaaf6c561164c6458b5c448120fc from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x3a3999e6501e2a36dd3c0b8fc2bd165fc4a22e54 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x39f3e7fa18d342de467ad9d7065a46c8385589f7 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x439cb5628e64677c540a8635c86e41d83c1170d5 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x22764de8f82f2d2a90e0ccca4556a2a5114b6461 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0xc28f50625cfe028ab1a3458c7cebcf9657ff1438 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x14130d36b36887620c37a404f859d11e293ec06a from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x2f77f4523a13138b472ac6faef624cce68da2c46 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x2315314c5cadb895c2c9982b847fd6f6a32d6129 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x8651e8e218597e781e9a6d8ceb53ec5a236ae75b from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO transform_input: to_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: from_add_data reached
+[12/20/2021 09:35:25 PM] INFO transform_input: Concat 0x2f80a6700e4bea478ac027f019f04a78a7538d06 from_add & to_add into temp_dataset
+[12/20/2021 09:35:25 PM] INFO __main__: Return tuple unpacked
+[12/20/2021 09:35:25 PM] INFO __main__: Transformed Data exported to csv
+[12/20/2021 09:35:25 PM] INFO __main__: Addresses not in original list written to csv
+[12/20/2021 09:35:25 PM] INFO __main__: Task Complete
